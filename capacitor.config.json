@@ -1,0 +1,11 @@
+{
+  "appId": "com.laura.pearlhop",
+  "appName": "Pearl Hop",
+  "webDir": "www",
+  "backgroundColor": "#06283d",
+  "ios": {
+    "contentInset": "never",
+    "scrollEnabled": false,
+    "backgroundColor": "#06283d"
+  }
+}
