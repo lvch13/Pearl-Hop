@@ -5,7 +5,7 @@
   // Your real iPhone rewarded ad unit is below. While USE_TEST_ADS is true, the app
   // shows Google's test ads instead (safe for TestFlight and for tapping).
   // For the App Store release build: set USE_TEST_ADS = false.
-  const USE_TEST_ADS = true;
+  const USE_TEST_ADS = false;
   const AD_UNIT_IOS_REAL = 'ca-app-pub-4466074981037210/7193731670';
   const AD_UNIT_IOS_TEST = 'ca-app-pub-3940256099942544/1712485313'; // Google's sample unit
   const AD_UNIT_IOS = USE_TEST_ADS ? AD_UNIT_IOS_TEST : AD_UNIT_IOS_REAL;
